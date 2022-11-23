@@ -1,0 +1,25 @@
+{
+  "kind": "singleType",
+  "collectionName": "home_portofolios",
+  "info": {
+    "singularName": "home-portofolio",
+    "pluralName": "home-portofolios",
+    "displayName": "Home Portofolio"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "files": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}
